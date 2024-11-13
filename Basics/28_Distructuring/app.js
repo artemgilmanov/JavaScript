@@ -62,7 +62,7 @@ function print_2({ first, last, title }) {
 }
 
 /**
- * Example 6
+ * Example 6.
  * Destructuring parameters.
  */
 const response = ['HTTP/1.1', '200 OK', 'application/json'];
